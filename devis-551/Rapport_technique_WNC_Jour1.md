@@ -5,6 +5,7 @@
 **Horaires :** 8h30 – 16h00
 **Lieu :** Atelier WNC
 **Liner :** QUICKSILVER 13 mm
+**Durée totale du chantier :** 3 jours
 
 ---
 
@@ -81,11 +82,9 @@
 
 ## 4. Prévisionnel – Jour #2
 
-- Contrôle de la mise en forme du liner.
-- Fixation du liner.
-- Finitions et retrait du masquage.
-- Remontage de la porte de benne.
-- Nettoyage de la zone de travail.
+- Fixation du liner au fond de la benne (goujons + écrous).
+- Pose des bouchons usinés sur les fixations.
+- Soudage des bandeaux métalliques sur le pourtour de la benne.
 
 ---
 
@@ -99,8 +98,9 @@
 | Traçage, découpe et défonçage du liner | ✅ Fait |
 | Perçage et chanfreinage des trous de fixation | ✅ Fait |
 | Mise en place du liner (mise en forme) | ✅ Fait |
-| Fixation du liner | ⏳ Jour #2 |
-| Remontage de la porte de benne | ⏳ À venir |
+| Fixation du liner (goujons + écrous) | ⏳ Jour #2 |
+| Bouchons usinés et bandeaux périphériques | ⏳ Jour #2 |
+| Travaux du Jour #3 | ⏳ Jour #3 |
 | Réception client | ⏳ À planifier |
 
 ---

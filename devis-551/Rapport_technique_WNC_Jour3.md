@@ -46,7 +46,7 @@
 
 ## 3. Points à signaler au client
 
-1. **Axe de porte côté conducteur bouché** : non débouché par WNC, il n'a donc pas pu être graissé. Il reste à déboucher puis à graisser. **Client averti verbalement.**
+1. **Axe de porte côté conducteur** : l’axe côté conducteur est bouché. Il n’a pas pu être graissé et WNC ne l’a pas débouché. Le client en a été averti verbalement.
 2. **Retouches de peinture** réalisées à la bombe aérosol à la teinte RAL du camion sur les marques de soudure.
 3. **Poids à vide** : le liner QUICKSILVER 13 mm et les bandeaux ajoutent du poids à la benne. Vérifier si le PV de la plaque de tare (17 400 kg) doit être mis à jour.
 

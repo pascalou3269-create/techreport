@@ -49,7 +49,10 @@
 
 ## 4. Prévisionnel – Jour #3
 
-- [À compléter]
+- Finition des soudures des bandeaux et anti-rouille.
+- Remontage et graissage de la porte de benne.
+- Nettoyage du camion et retouches de peinture.
+- Récupération du camion par le client.
 
 ---
 
@@ -66,8 +69,8 @@
 | Fixation du liner (goujons + écrous) | ✅ Jour #2 |
 | Pose des bouchons usinés | ✅ Jour #2 |
 | Soudage des bandeaux périphériques | ✅ Jour #2 |
-| Travaux du Jour #3 | ⏳ Jour #3 |
-| Réception client | ⏳ À planifier |
+| Finition des bandeaux, remontage de la porte, nettoyage | ⏳ Jour #3 |
+| Récupération du camion par le client | ⏳ Jour #3 |
 
 ---
 

@@ -100,8 +100,8 @@
 | Mise en place du liner (mise en forme) | ✅ Fait |
 | Fixation du liner (goujons + écrous) | ⏳ Jour #2 |
 | Bouchons usinés et bandeaux périphériques | ⏳ Jour #2 |
-| Travaux du Jour #3 | ⏳ Jour #3 |
-| Réception client | ⏳ À planifier |
+| Finition, remontage de la porte, nettoyage | ⏳ Jour #3 |
+| Récupération du camion par le client | ⏳ Jour #3 |
 
 ---
 

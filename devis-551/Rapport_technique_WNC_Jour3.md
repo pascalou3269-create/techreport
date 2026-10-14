@@ -35,7 +35,7 @@
 ### 2.3 Remontage de la porte arrière de la benne
 - **Remontage de la porte** arrière de la benne.
 - **Graissage des axes** de la porte.
-- L'axe **côté conducteur** est **bouché** et doit être débouché pour pouvoir être graissé.
+- L'axe **côté conducteur** est **bouché** : il n'a pas pu être graissé et n'a pas été débouché par WNC. Le client en a été averti verbalement.
 
 ### 2.4 Préparation à la livraison
 - **Nettoyage du camion**.
@@ -46,7 +46,7 @@
 
 ## 3. Points à signaler au client
 
-1. **Axe de porte côté conducteur bouché** : il doit être débouché pour être graissé correctement. [Préciser : débouché par WNC / à prévoir]
+1. **Axe de porte côté conducteur bouché** : non débouché par WNC, il n'a donc pas pu être graissé. Il reste à déboucher puis à graisser. **Client averti verbalement** lors de la récupération du camion.
 2. **Retouches de peinture** réalisées à la bombe aérosol à la teinte RAL du camion sur les marques de soudure.
 3. **Poids à vide** : le liner QUICKSILVER 13 mm et les bandeaux ajoutent du poids à la benne. Vérifier si le PV de la plaque de tare (17 400 kg) doit être mis à jour.
 
@@ -76,7 +76,7 @@
 | Pose des bouchons usinés | ✅ Jour #2 |
 | Soudage des bandeaux périphériques | ✅ Jour #2 |
 | Finition des bandeaux et anti-rouille | ✅ Jour #3 |
-| Remontage et graissage de la porte arrière | ✅ Jour #3 |
+| Remontage et graissage de la porte arrière | ✅ Jour #3 (sauf axe côté conducteur, bouché – client averti) |
 | Nettoyage et retouches de peinture | ✅ Jour #3 |
 | Récupération du camion par le client | ✅ Jour #3 – vers 13h00 |
 

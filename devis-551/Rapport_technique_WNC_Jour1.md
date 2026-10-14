@@ -1,10 +1,10 @@
 # RAPPORT TECHNIQUE WNC – JOUR #1
 
 **Devis n° 551 :** Pose d'un liner dans benne MERCEDES AROCS 12 roues – HTGC
-**Date d'intervention :** [à compléter]
+**Date d'intervention :** 12/10/2026
+**Horaires :** 8h30 – 16h00
 **Lieu :** Atelier WNC
-**Intervenants :** [à compléter]
-**Rédacteur :** [à compléter]
+**Liner :** QUICKSILVER 13 mm
 
 ---
 
@@ -38,77 +38,71 @@
 | Essieux avant (1 et 2) | 9 000 kg chacun |
 | Essieux arrière (3 et 4) | 16 000 kg chacun |
 
-> **Remarque :** Le liner ajoute du poids à la benne. Après travaux, il conviendra de vérifier si une mise à jour du PV sur la plaque de tare est nécessaire (PV actuel : 17 400 kg).
-
 📷 Photos : `photos/01_plaque_tare.jpg`, `photos/02_plaque_constructeur.jpg`, `photos/03_vehicule_vue_avant.jpg`
 
 ---
 
-## 2. État initial du véhicule à réception
+## 2. Travaux réalisés – Jour #1 (12/10/2026, 8h30 – 16h00)
 
-- Véhicule réceptionné complet, benne basculante acier peinte rouge.
-- Usure visible à l'intérieur de la benne : peinture abrasée, oxydation de surface et traces d'usure sur les parois latérales et la face avant, typiques d'un usage intensif en transport de matériaux (terre, roche, granulats).
-- Pare-buffles et protections de phares en place à l'avant ; aucun dommage particulier relevé sur la cabine au niveau des photos.
+### 2.1 Dépose de la porte de benne
+- Dépose de la porte arrière de la benne à l'aide d'une **potence** et d'un **élévateur**, afin de libérer l'accès au fond de la benne.
 
-📷 Photo : `photos/03_vehicule_vue_avant.jpg`
+### 2.2 Prise de cotes et traitement anti-rouille
+- **Prise de cotes** du fond de la benne (plancher, remontées latérales et face avant).
+- En parallèle, **application d'un produit anti-rouille** au rouleau sur le fond de la benne, les remontées latérales et le pied de la face avant, jusqu'à la ligne de masquage. Ce traitement protège l'acier avant la pose du liner.
 
----
+📷 Photos : `photos/04_application_plancher.jpg` (application de l'anti-rouille), `photos/05_liner_fin_de_journee.jpg` (fond de benne traité à l'anti-rouille)
 
-## 3. Travaux réalisés – Jour #1
+### 2.3 Traçage et découpe du liner QUICKSILVER 13 mm
+- Report des cotes relevées sur le liner et **traçage du plan de découpe**.
+- **Découpe** des parties du liner selon le traçage.
+- Passage à la **défonceuse avec fraise droite de 6 mm** pour que le liner épouse la forme du fond de la benne.
 
-### 3.1 Préparation de la benne
-- Mise en place de la benne à l'atelier, à l'abri.
-- Nettoyage / préparation du support (plancher, bas des parois latérales et bas de la face avant).
-- **Masquage** au ruban adhésif de la limite haute de la zone à revêtir sur les parois latérales et la face avant, afin d'obtenir une ligne de finition nette.
-- Traçage et découpe de la zone de pose : plancher + remontées sur les parois latérales et la face avant, avec **réalisation des congés / chanfreins dans les angles** (jonctions plancher/parois et plancher/face avant) pour éviter l'accrochage des matériaux et faciliter le vidage.
+### 2.4 Perçage des trous de fixation
+- Perçage des **trous de fixation** du liner.
+- **Chanfreinage** des trous.
 
-📷 Photo : `photos/04_application_plancher.jpg`
+### 2.5 Mise en place du liner
+- Pose du liner dans la benne pour qu'il **prenne la forme de la benne** avant la fixation définitive.
 
-### 3.2 Application
-- Application au rouleau à manche long du produit [primaire / résine – à préciser] sur le plancher, progressivement depuis l'avant vers l'arrière de la benne.
-- Mise en œuvre sur les remontées latérales et au pied de la face avant, jusqu'à la ligne de masquage.
-
-📷 Photo : `photos/04_application_plancher.jpg`
-
-### 3.3 État en fin de journée
-- Le liner est en place sur **l'ensemble du plancher**, sur les **remontées latérales** et en **pied de face avant**, avec relevés et chanfreins d'angles formés.
-- Couche de revêtement noire continue sur toute la longueur de la benne.
-
-📷 Photo : `photos/05_liner_fin_de_journee.jpg`
+### 2.6 Fin de journée
+- Prise de photos de suivi.
+- Rangement et nettoyage du poste de travail.
 
 ---
 
-## 4. Observations / Points de vigilance
+## 3. Observations / Points de vigilance
 
-1. **Traces de pas** visibles sur la surface du liner (passage sur le revêtement pendant la mise en œuvre) → à reprendre / lisser lors de la couche suivante.
-2. **Aspect non homogène** (zones claires / blanchâtres) sur la surface du plancher → à contrôler au Jour #2 : différence d'épaisseur, défaut de mouillage ou simple aspect de surface. Reprise si nécessaire.
-3. **Finition des bords** au niveau de la ligne de masquage (parois latérales et face avant) → à vérifier après dépose du ruban.
-4. **Parois latérales hautes** non concernées par le liner : présence d'oxydation de surface et de peinture usée (hors devis – à signaler au client).
-5. Respecter le **temps de séchage / polymérisation** avant toute nouvelle intervention ou circulation dans la benne.
+1. Le liner QUICKSILVER 13 mm ajoute du poids à la benne : après travaux, vérifier si le **PV de la plaque de tare** (17 400 kg) doit être mis à jour.
+2. Contrôler la **mise en forme du liner** après une nuit en place avant la fixation définitive.
+3. Vérifier la **correspondance entre les trous de fixation et la benne** avant la fixation.
 
 ---
 
-## 5. Prévisionnel – Jour #2
+## 4. Prévisionnel – Jour #2
 
-- Contrôle visuel complet de la couche posée (adhérence, épaisseur, défauts).
-- Reprise des défauts relevés (traces, zones non homogènes).
-- Couche(s) de finition [à préciser selon le système retenu].
-- Dépose du masquage et finition des arêtes.
+- Contrôle de la mise en forme du liner.
+- Fixation du liner.
+- Finitions et retrait du masquage.
+- Remontage de la porte de benne.
 - Nettoyage de la zone de travail.
 
 ---
 
-## 6. Avancement
+## 5. Avancement
 
 | Étape | État |
 |---|---|
-| Réception et identification du véhicule | ✅ Fait |
-| Préparation / masquage | ✅ Fait |
-| Pose du liner (plancher + remontées + face avant) | ✅ Fait – 1ʳᵉ phase |
-| Contrôle et reprise des défauts | ⏳ Jour #2 |
-| Finition / dépose masquage | ⏳ Jour #2 |
+| Dépose de la porte de benne | ✅ Fait |
+| Prise de cotes du fond de benne | ✅ Fait |
+| Application de l'anti-rouille | ✅ Fait |
+| Traçage, découpe et défonçage du liner | ✅ Fait |
+| Perçage et chanfreinage des trous de fixation | ✅ Fait |
+| Mise en place du liner (mise en forme) | ✅ Fait |
+| Fixation du liner | ⏳ Jour #2 |
+| Remontage de la porte de benne | ⏳ À venir |
 | Réception client | ⏳ À planifier |
 
 ---
 
-**Signature intervenant :** ____________________  **Date :** ____/____/______
+**Signature intervenant :** ____________________  **Date :** 12/10/2026

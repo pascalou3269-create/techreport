@@ -5,7 +5,7 @@
 | **Devis n°** | 551 – Pose d'un liner dans benne MERCEDES AROCS 12 roues |
 | **Client** | HTGC |
 | **Date d'intervention** | Mercredi 14/10/2026 |
-| **Horaires** | [début à compléter] – 13h00 (récupération du camion par le client) |
+| **Horaires** | 8h00 – 13h00 environ (récupération du camion par le client) |
 | **Lieu** | Atelier WNC |
 | **Liner** | QUICKSILVER 13 mm |
 | **Durée totale du chantier** | 3 jours (12/10/2026 au 14/10/2026) |
@@ -58,7 +58,7 @@
 |---|---|---|---|
 | #1 | 12/10/2026 | 8h30 – 16h00 | Dépose de la porte, prise de cotes, anti-rouille du fond, traçage / découpe / défonçage du liner, perçage et chanfreinage des trous, mise en forme du liner |
 | #2 | 13/10/2026 | 7h30 – 16h00 | Fixation du liner (goujons + écrous), pose des bouchons usinés, soudage des bandeaux périphériques |
-| #3 | 14/10/2026 | [début] – 13h00 | Finition des bandeaux et anti-rouille, remontage et graissage de la porte, nettoyage, retouches de peinture, livraison au client |
+| #3 | 14/10/2026 | 8h00 – 13h00 env. | Finition des bandeaux et anti-rouille, remontage et graissage de la porte, nettoyage, retouches de peinture, livraison au client |
 
 ---
 

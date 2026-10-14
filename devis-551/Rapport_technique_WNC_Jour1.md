@@ -1,11 +1,14 @@
 # RAPPORT TECHNIQUE WNC – JOUR #1
 
-**Devis n° 551 :** Pose d'un liner dans benne MERCEDES AROCS 12 roues – HTGC
-**Date d'intervention :** 12/10/2026
-**Horaires :** 8h30 – 16h00
-**Lieu :** Atelier WNC
-**Liner :** QUICKSILVER 13 mm
-**Durée totale du chantier :** 3 jours
+| | |
+|---|---|
+| **Devis n°** | 551 – Pose d'un liner dans benne MERCEDES AROCS 12 roues |
+| **Client** | HTGC |
+| **Date d'intervention** | Lundi 12/10/2026 |
+| **Horaires** | 8h30 – 16h00 |
+| **Lieu** | Atelier WNC |
+| **Liner** | QUICKSILVER 13 mm |
+| **Durée totale du chantier** | 3 jours (12/10/2026 au 14/10/2026) |
 
 ---
 
@@ -18,7 +21,6 @@
 | Constructeur | Daimler Truck AG |
 | Type | 964.231 |
 | N° VIN | W1T96423110491181 |
-| Client | HTGC |
 
 ### Plaque de tare (côté benne)
 
@@ -30,7 +32,7 @@
 | L × l | 9,4 × 2,5 m |
 | Surface | 23,5 m² |
 
-### Plaque constructeur (montant de porte)
+### Plaque constructeur (montant de porte cabine)
 
 | Donnée | Valeur |
 |---|---|
@@ -43,40 +45,39 @@
 
 ---
 
-## 2. Travaux réalisés – Jour #1 (12/10/2026, 8h30 – 16h00)
+## 2. Travaux réalisés
 
-### 2.1 Dépose de la porte de benne
-- Dépose de la porte arrière de la benne à l'aide d'une **potence** et d'un **élévateur**, afin de libérer l'accès au fond de la benne.
+### 2.1 Dépose de la porte arrière de la benne
+- Dépose de la porte arrière de la benne à l'aide d'une **potence** et d'un **élévateur**, pour libérer l'accès au fond de la benne.
 
-### 2.2 Prise de cotes et traitement anti-rouille
-- **Prise de cotes** du fond de la benne (plancher, remontées latérales et face avant).
-- En parallèle, **application d'un produit anti-rouille** au rouleau sur le fond de la benne, les remontées latérales et le pied de la face avant, jusqu'à la ligne de masquage. Ce traitement protège l'acier avant la pose du liner.
+### 2.2 Prise de cotes et application de l'anti-rouille
+- **Prise de cotes** du fond de la benne.
+- En parallèle, **application d'un produit anti-rouille** au rouleau sur le fond de la benne, avant la pose du liner. Le haut des parois est protégé par un ruban de masquage.
 
-📷 Photos : `photos/04_application_plancher.jpg` (application de l'anti-rouille), `photos/05_liner_fin_de_journee.jpg` (fond de benne traité à l'anti-rouille)
+📷 Photos : `photos/04_application_antirouille.jpg` (application de l'anti-rouille), `photos/05_antirouille_fond_benne.jpg` (fond de benne traité)
 
 ### 2.3 Traçage et découpe du liner QUICKSILVER 13 mm
 - Report des cotes relevées sur le liner et **traçage du plan de découpe**.
-- **Découpe** des parties du liner selon le traçage.
-- Passage à la **défonceuse avec fraise droite de 6 mm** pour que le liner épouse la forme du fond de la benne.
+- **Découpe** de certaines parties du liner selon le traçage.
+- Passage à la **défonceuse avec fraise droite de 6 mm** pour que le liner puisse épouser le fond de la benne.
 
 ### 2.4 Perçage des trous de fixation
 - Perçage des **trous de fixation** du liner.
 - **Chanfreinage** des trous.
 
 ### 2.5 Mise en place du liner
-- Pose du liner dans la benne pour qu'il **prenne la forme de la benne** avant la fixation définitive.
+- Pose du liner dans la benne pour qu'il **prenne la forme de la benne** avant sa fixation.
 
 ### 2.6 Fin de journée
 - Prise de photos de suivi.
-- Rangement et nettoyage du poste de travail.
+- Rangement du poste de travail.
 
 ---
 
-## 3. Observations / Points de vigilance
+## 3. Observations
 
-1. Le liner QUICKSILVER 13 mm ajoute du poids à la benne : après travaux, vérifier si le **PV de la plaque de tare** (17 400 kg) doit être mis à jour.
-2. Contrôler la **mise en forme du liner** après une nuit en place avant la fixation définitive.
-3. Vérifier la **correspondance entre les trous de fixation et la benne** avant la fixation.
+- Le liner est laissé en place pendant la nuit pour prendre la forme de la benne.
+- La porte arrière de la benne reste déposée jusqu'à la fin des travaux.
 
 ---
 
@@ -84,23 +85,26 @@
 
 - Fixation du liner au fond de la benne (goujons + écrous).
 - Pose des bouchons usinés sur les fixations.
-- Soudage des bandeaux métalliques sur le pourtour de la benne.
+- Soudage des bandeaux en métal sur le pourtour de la benne.
 
 ---
 
-## 5. Avancement
+## 5. Avancement du chantier
 
 | Étape | État |
 |---|---|
-| Dépose de la porte de benne | ✅ Fait |
-| Prise de cotes du fond de benne | ✅ Fait |
-| Application de l'anti-rouille | ✅ Fait |
-| Traçage, découpe et défonçage du liner | ✅ Fait |
-| Perçage et chanfreinage des trous de fixation | ✅ Fait |
-| Mise en place du liner (mise en forme) | ✅ Fait |
+| Dépose de la porte arrière de la benne | ✅ Jour #1 |
+| Prise de cotes du fond de benne | ✅ Jour #1 |
+| Application de l'anti-rouille sur le fond de benne | ✅ Jour #1 |
+| Traçage, découpe et défonçage du liner | ✅ Jour #1 |
+| Perçage et chanfreinage des trous de fixation | ✅ Jour #1 |
+| Mise en place du liner (mise en forme) | ✅ Jour #1 |
 | Fixation du liner (goujons + écrous) | ⏳ Jour #2 |
-| Bouchons usinés et bandeaux périphériques | ⏳ Jour #2 |
-| Finition, remontage de la porte, nettoyage | ⏳ Jour #3 |
+| Pose des bouchons usinés | ⏳ Jour #2 |
+| Soudage des bandeaux périphériques | ⏳ Jour #2 |
+| Finition des bandeaux et anti-rouille | ⏳ Jour #3 |
+| Remontage et graissage de la porte arrière | ⏳ Jour #3 |
+| Nettoyage et retouches de peinture | ⏳ Jour #3 |
 | Récupération du camion par le client | ⏳ Jour #3 |
 
 ---
